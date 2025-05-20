@@ -1,5 +1,5 @@
 # employee-dataset
-# Proyek Akhir: Menyelesaikan Permasalahan Turnover Karyawan pada Perusahaan Edutech
+# Proyek Akhir: Menyelesaikan Permasalahan Turnover Karyawan pada Perusahaan Jayajaya
 
 ## 1. Business Understanding  
 Perusahaan Edutech Jayajaya bergerak di bidang pengembangan platform pembelajaran daring yang terus berkembang pesat. Untuk menjaga kualitas layanan dan pertumbuhan, perusahaan perlu mempertahankan talenta kunci—mulai dari penjualan, tim R&D, hingga staf pendukung operasional. Namun, tingkat keluar-masuk karyawan (attrition) yang relatif tinggi mengancam stabilitas tim dan mengurangi efektivitas inisiatif strategis.
@@ -59,6 +59,6 @@ Dashboard interaktif yang menampilkan:
 1. **Well-paid Bagi Karyawan High Performers**  
    — Perusahaan bersaing dengan kompetitor untuk mendapatkan karyawan high performers, menghemat budget tidak tepat diterapkan untuk karyawan dengan skill mumpuni.
 2. **Program Kepuasan Lingkungan Kerja**  
-   — Tingkatkan engagement & well-being (survey rutin, kegiatan team bonding) untuk meningkatkan `EnvironmentSatisfaction`.  
+   — Tingkatkan engagement & well-being (survey rutin, kegiatan team bonding) untuk meningkatkan `RelationshipSatisfaction`.  
 3. **Retention Check-In dengan Manager**  
    — Buat jadwal meeting berkala antara karyawan dan manajer untuk memantau kepuasan & hambatan dalam pekerjaan—khususnya pada 18 karyawan “Medium Risk”.  
