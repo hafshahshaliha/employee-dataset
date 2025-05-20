@@ -56,8 +56,8 @@ Dashboard interaktif yang menampilkan:
 - Hanya 2 karyawan “High Risk” (prob ≥ 80%), sehingga program retensi dapat difokuskan pada segmen kecil.
 
 ## 7. Rekomendasi Action Items  
-1. **Intervensi Lembur**  
-   — Tinjau kebijakan lembur, berikan kompensasi atau fleksibilitas kerja bagi karyawan yang sering lembur.  
+1. **Well-paid Bagi Karyawan High Performers**  
+   — Perusahaan bersaing dengan kompetitor untuk mendapatkan karyawan high performers, menghemat budget tidak tepat diterapkan untuk karyawan dengan skill mumpuni.
 2. **Program Kepuasan Lingkungan Kerja**  
    — Tingkatkan engagement & well-being (survey rutin, kegiatan team bonding) untuk meningkatkan `EnvironmentSatisfaction`.  
 3. **Retention Check-In dengan Manager**  
