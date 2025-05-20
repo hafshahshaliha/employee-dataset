@@ -2,7 +2,7 @@
 # Proyek Akhir: Menyelesaikan Permasalahan Turnover Karyawan pada Perusahaan Edutech
 
 ## 1. Business Understanding  
-Perusahaan Edutech XYZ bergerak di bidang pengembangan platform pembelajaran daring yang terus berkembang pesat. Untuk menjaga kualitas layanan dan pertumbuhan, perusahaan perlu mempertahankan talenta kunci—mulai dari pengembang produk, tim R&D, hingga staf pendukung operasional. Namun, tingkat keluar-masuk karyawan (attrition) yang relatif tinggi mengancam stabilitas tim dan mengurangi efektivitas inisiatif strategis.
+Perusahaan Edutech Jayajaya bergerak di bidang pengembangan platform pembelajaran daring yang terus berkembang pesat. Untuk menjaga kualitas layanan dan pertumbuhan, perusahaan perlu mempertahankan talenta kunci—mulai dari penjualan, tim R&D, hingga staf pendukung operasional. Namun, tingkat keluar-masuk karyawan (attrition) yang relatif tinggi mengancam stabilitas tim dan mengurangi efektivitas inisiatif strategis.
 
 ## 2. Permasalahan Bisnis  
 - **Tingkat Attrition yang Meningkat**  
@@ -43,12 +43,12 @@ Perusahaan Edutech XYZ bergerak di bidang pengembangan platform pembelajaran dar
 ## 5. Business Dashboard  
 Dashboard interaktif yang menampilkan:  
 - **Prediction Table**: daftar karyawan dengan probabilitas resign, kelas prediksi, dan tingkat risiko (High/Medium/Low)  
-- **Risk Distribution**: bar/pie chart sebaran risiko resign  
-- **Top-N High Risk**: highlight top 10 karyawan berisiko tinggi  
+- **Attrition Breakdown per Category**: visualisasi tabular yang memperlihatkan tingkat attrition berdasarkan tingkat pendidikan, departemen dan lain sebagainya 
+- **High Performers Resigned**: Fakta menarik karyawan resign yang didominasi oleh excelent staff dan outstanding staff 
 - **Feature Importance**: bar chart faktor-faktor utama pemicu resign  
 
 **Link Tableau Public:**  
-https://public.tableau.com/views/HRAttritionDashboard/Overview
+[tableau](https://public.tableau.com/app/profile/hafshah.shaliha/viz/HRAnalysisDashboard_17476608031520/Dashboard1)
 
 ## 6. Conclusion  
 - Model Random Forest setelah SMOTE mencapai akurasi ~88% dalam memprediksi resign.  
